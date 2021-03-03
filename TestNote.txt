@@ -1,0 +1,4 @@
+Nghe gọi lúc nhận lúc không, lúc nhanh, lúc chậm
+Đồng bộ danh bạ chưa được.
+Đồng bộ db xong phải chuyển sang tab gọi điện rồi quay lại mới hiện danh bạ
+Danh bạ gửi cmd đồng bộ 2 lần mới được(Note)
